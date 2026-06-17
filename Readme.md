@@ -60,8 +60,8 @@ The dataset contains:
 # 🔗 Dataset Link
 
 - [Risk_Alert_Classifier_Dataset.csv](Risk_Alert_Classifier_Dataset.csv)
-
 ---
+<<<<<<< HEAD
 
 ## Streamlit link
 
@@ -69,6 +69,8 @@ The dataset contains:
 
 ---
 
+=======
+>>>>>>> 61d44f5c7124a4451f707096fe445735f24974d5
 # 🛠 Technologies Used
 
 - Python
