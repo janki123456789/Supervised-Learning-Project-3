@@ -63,6 +63,12 @@ The dataset contains:
 
 ---
 
+## Streamlit link
+
+- [https://risk-alert-classifier-pr-3.streamlit.app/]
+
+---
+
 # 🛠 Technologies Used
 
 - Python
